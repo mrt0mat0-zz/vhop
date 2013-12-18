@@ -1,0 +1,12 @@
+{
+	"ibc":{
+		"folder":"app_myibcportal"
+	}
+	"payments":{
+		"folder":"app_payments"
+	}
+option: refer:app_refer
+option monman:app_monman
+option outvoice:app_outvoice
+option api-talk:api-talk
+}
